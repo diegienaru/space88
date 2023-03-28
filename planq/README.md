@@ -7,7 +7,7 @@ sudo apt update && sudo apt upgrade -y
 ```
 ## Auto Installation
 ```bash
-wget -O planq.sh https://raw.githubusercontent.com/Alfonova-Node/NODE_TESTNET/main/PLANQ/planq.sh && chmod +x planq.sh && ./planq.sh
+wget -O planq.sh https://raw.githubusercontent.com/iqblmynwr88/space88/tree/main/planq/planq.sh && chmod +x planq.sh && ./planq.sh
 ```
 ## Load Variable
 ```bash
